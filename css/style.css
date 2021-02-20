@@ -1,0 +1,44 @@
+.navbar-brand{
+  font-size: 1.6rem;
+  font-weight: 600;
+  color: #fff;
+}
+.navbar-toggler{
+  background-color: white;
+}
+
+.navbar-nav a{
+  color: white;
+}
+header{
+  background-image: url(photographer.jpg);
+  background-position:center;
+  background-color: #cccccc;
+  height: 300px;
+  background-repeat: no-repeat;
+  
+
+}
+.layer{
+  width: 100%;
+  height: 300px;
+  background-color: rgba(0,0,0, 0.3);
+}
+
+  /* end header */
+  .card{
+    border: none;
+  }
+
+  /* footer */
+  footer {
+    text-align: center;
+    padding: 3px;
+    background-color: DarkSalmon;
+    color: white;
+  }
+  @media screen and (min-width: 480px) {
+    .col-md-12{
+      margin-top: 10px;
+    }
+  }
