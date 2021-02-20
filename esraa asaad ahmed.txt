@@ -1,1 +1,17 @@
 esraa asaad ahmed 
+1:create a repo 
+1) git init
+git status 
+git add . 
+git commit -m "initial project"
+git log --oneline
+ssh-keygen -t rsa -b 4096 -c “esraaasaad72@gmail.com”
+2:create two branch
+2) git branch dev
+git branch test
+git branch
+git push origin dev
+git push origin test
+
+3)merge changes
+3)git checkout dev 
